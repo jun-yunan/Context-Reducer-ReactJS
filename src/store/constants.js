@@ -1,3 +1,7 @@
 export const SET_TODO_INPUT = 'set_todo_input'
 export const ADD_TODO = 'add_todo'
 export const DELETE_TODO = 'delete_todo'
+export const SET_NAME_PRODUCT = 'set_name_product'
+export const SET_PRICE_PRODUCT = 'set_price_product'
+export const ADD_PRODUCT = 'add_product'
+export const DELETE_PRODUCT = 'delete_product'
